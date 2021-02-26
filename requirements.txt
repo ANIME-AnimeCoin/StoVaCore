@@ -9,7 +9,7 @@ tensorflow==1.13.1
 scipy==1.1.0
 numpy==1.14.3
 Keras==2.1.6
-aiohttp==3.5.4
+aiohttp==3.7.4
 peewee==3.9.6
 
 # dev
